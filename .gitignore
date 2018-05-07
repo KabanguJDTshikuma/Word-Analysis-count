@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+py36
+db.sqlite3
+.ipynb_checkpoints
+bootstrap-4.1.1
